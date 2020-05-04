@@ -1,0 +1,12 @@
+{
+    "name": "trodix/urlshorter",
+    "require": {
+        "predis/predis": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Sébastien Vallet",
+            "email": "sebastien.vallet89@gmail.com"
+        }
+    ]
+}
